@@ -16,7 +16,7 @@ This system was developed using:
 To explore the project, clone the repository and open it in Visual Studio.
 
 ```bash
-git clone https://github.com/TawanaState/AirportDatabaseManagementSystem.git
+git clone [https://github.com/TawanaState/AirportDatabaseManagementSystem](https://github.com/TawanaState/Airport-Management-System).git
 ```
 
 ## Contact
