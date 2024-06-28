@@ -1,0 +1,260 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AirportManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.EmployeesTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.FlightsTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.PassengersTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.PlanesTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.TicketsTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.EmployeesTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.FlightsTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.PassengersTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.PlanesTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.TicketsTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.EmployeesTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.FlightsTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.PassengersTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.PlanesTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1.TicketsTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.EmployeesTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.FlightsTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.PassengersTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.PlanesTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TicketsTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AirportManagementSystem.FlightsLogicDatabaseDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AirportManagementSystem.FlightsLogicDatabaseDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AirportManagementSystem.FlightsLogicDatabaseDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateAll(AirportManagementSystem.FlightsLogicDatabaseDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.EmployeesTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.FlightsTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.PassengersTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.PlanesTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.TicketsTableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.EmployeesTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.FlightsTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.PassengersTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.PlanesTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.TicketsTableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.EmployeesTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.FlightsTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.PassengersTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.PlanesTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet.TicketsTableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.EmployeesTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.FlightsTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.PassengersTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.PlanesTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TicketsTableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AirportManagementSystem.FlightsLogicDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AirportManagementSystem.FlightsLogicDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AirportManagementSystem.FlightsLogicDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(AirportManagementSystem.FlightsLogicDatabaseDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AirportManagementSystem.FlightsLogicDatabaseDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AirportManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AirportManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AirportManagementSystem.My.Resources.Resources.FlightsLogicDatabase">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="T:AirportManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
